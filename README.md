@@ -6,9 +6,17 @@ This project analyzes Indian e-commerce sales performance from January 2025 to J
 
 The dashboard provides an overview of sales trends, product category performance, customer segments, order fulfilment, and key business performance indicators.
 
-## Live Tableau Dashboard
+## Dashboard Preview
 
-[Explore the Interactive Dashboard](https://public.tableau.com/app/profile/aayush.verma1043/viz/Indian_Ecommerce_Sales_Analytics_twbx/BusinessInsights?publish=yes)
+### Sales Performance Dashboard
+![Sales Dashboard](E-commerce%20Dashboard%20-%20Sales%20Dashboard.png)
+
+### Business Insights & Recommendations
+![Business Insights](E-commerce%20Dashboard%20-%20Business%20Insights.png)
+
+## Live Interactive Dashboard
+
+[Explore the Dashboard on Tableau Public](https://public.tableau.com/app/profile/aayush.verma1043/viz/Indian_Ecommerce_Sales_Analytics_twbx/BusinessInsights?publish=yes)
 
 
 ## 2. Business Objectives
